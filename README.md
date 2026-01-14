@@ -16,6 +16,8 @@ Designed to demonstrate core JavaScript logic, DOM manipulation, and state handl
 - CSS3
 - JavaScript (ES6)
 
+## Demo Video - https://www.linkedin.com/posts/ayan-muneer-824ab7308_javascript-webdevelopment-frontend-activity-7417198772448878592-zMLO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE55JtwBj14LANrcINSdE2eYdu_M3qcPllY
+
 ## Project Structure
 /quiz-app
 │── index.html
